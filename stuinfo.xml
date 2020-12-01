@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO8859-1" ?>
+<christ>
+	<cs>
+		<stu-name>Hermain</stu-name>
+        <stu-branch>MCA</stu-branch>
+        <stu-college>Christ</stu-college>
+        <stu-email>hermain@gmail.com</stu-email>
+        </cs>
+        <cs>
+		<stu-name>Karen</stu-name>
+        <stu-branch>MSC</stu-branch>
+        <stu-college>St Joseph</stu-college>
+        <stu-email>karen@gmail.com</stu-email>
+        </cs>
+        <cs>
+		<stu-name>Harsha</stu-name>
+        <stu-branch>MDS</stu-branch>
+        <stu-college>SFS</stu-college>
+        <stu-email>harsha@yahoo.com</stu-email>
+        </cs>
+        </christ>
